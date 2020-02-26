@@ -85,9 +85,9 @@ author:
   bio              : "Postdoc at the University of Michigan"
   location         : "Ann Arbor, MI"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=molly+simmonite"
+  pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=UanhFRAAAAAJ&hl=en"
-  email            :
+  email            : "mollysimmonite@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
