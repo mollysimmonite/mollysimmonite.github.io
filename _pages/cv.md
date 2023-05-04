@@ -11,22 +11,20 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D in Psychiatry, University of Nottingham, 2013
+* M.Sc. in Cognitive Neuroscience and Neuroimaging, University of Nottingham, 2009
+* B.Sc.(Hons) in Psychology, University of Lincoln, 2007
 
-Work experience
+Appointments
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* March 2022 - present: Research Investigator
+  * Department of Psychiatry, University of Michigan, Ann Arbor
+  * Advisor: Professor Stephan F. Taylor
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
+* April 2016 - March 2022: Postdoctoral Research Associate
+  * Department of Psychology, University of Michigan, Ann Arbor
+  * Advisor: Professor Thad A. Polk
+
 Skills
 ======
 * Skill 1
@@ -41,13 +39,13 @@ Publications
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
 Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
-  
+
 Teaching
 ======
   <ul>{% for post in site.teaching %}
