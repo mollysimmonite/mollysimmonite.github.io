@@ -10,4 +10,4 @@ This paper is about the number 3. The number 4 is left for future work.
 
 [Download paper here](http://academicpages.github.io/files/paper3.pdf)
 
-Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Biological Psychiatry: Cognitive Neuroscience and Neuroimaging</i>. 6.
+Recommended citation: Your Name, You. (2015). "Regional brain correlates of beta bursts in health and psychosis: A concurrent electroencephalography and functional magnetic resonance imaging study" <i>Biological Psychiatry: Cognitive Neuroscience and Neuroimaging</i>. 6.

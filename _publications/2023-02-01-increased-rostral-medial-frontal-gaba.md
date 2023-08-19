@@ -6,7 +6,6 @@ excerpt: 'This paper is about the number 1. The number 2 is left for future work
 date: 2023-02-01
 venue: 'Schizophrenia Research'
 ---
-
 [Download article here](http://mollysimmonite.github.io/files/Simmonite2023_earlypsychosisGABA.pdf)
 
 This paper is about the number 1. The number 2 is left for future work.
