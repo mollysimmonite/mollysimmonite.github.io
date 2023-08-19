@@ -9,30 +9,31 @@ redirect_from:
 
 {% include base_path %}
 
+Research Interests
+======
+* Neurotransmitter alterations in psychosis spectrum disorders
+* Integrating age-related chances in neurochemistry with behavior
+* Age differences in the specificity of neural patterns
+
 Education
 ======
-* Ph.D in Psychiatry, University of Nottingham, 2013
-* M.Sc. in Cognitive Neuroscience and Neuroimaging, University of Nottingham, 2009
-* B.Sc.(Hons) in Psychology, University of Lincoln, 2007
+* PhD in Psychiatry, University of Nottingham, UK. 2013
+* MSc in Cognitive Neuroscience and Neuroimaging, University of Nottingham, UK. 2009
+* BSc (Hons) in Psychology, University of Lincoln, UK. 2007
 
 Appointments
 ======
-* March 2022 - present: Research Investigator
-  * Department of Psychiatry, University of Michigan, Ann Arbor
-  * Advisor: Professor Stephan F. Taylor
+* Research Investigator, March 2022 - present
+  * Department of Psychiatry, University of Michigan, Ann Arbor MI
+  * Advisor: Dr Stephan F. Taylor
 
-* April 2016 - March 2022: Postdoctoral Research Associate
-  * Department of Psychology, University of Michigan, Ann Arbor
-  * Advisor: Professor Thad A. Polk
+* Postdoctoral Research Fellow, April 2016 - March 2022
+  * Department of Psychology, University of Michigan, Ann Arbor MI
+  * Advisor: Dr Thad A. Polk
 
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+  * Postdoctoral Research Fellow, April 2016 - March 2022
+    * Department of Psychology, Rosalind Franklin University, North Chicago IL
+    * Advisors: Dr Kent Kiehl and Dr David Kosson
 
 Publications
 ======
@@ -40,17 +41,13 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Adjunct Lecturer, Department of Psychology, University of Michigan
+  *
+* Graduate Student Mentor, Department of Psychology, Rosalind Franklin University
+* Demonstrator, Computer Programming for Stimuli and Analysis
+* Demonstrator, Practical Methods in Psychology
 
 Service and leadership
 ======

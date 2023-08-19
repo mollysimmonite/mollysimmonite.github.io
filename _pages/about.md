@@ -10,6 +10,6 @@ redirect_from:
 
 Welcome! I am a Research Scientist at the University of Michigan, where I work in the Departments of Psychiatry and Psychology.
 
-I earned my Ph.D in Psychiatry and M.Sc in Cognitive Neuroscience and Neuroimaging from the University of Nottingham, UK and my BSc in Psychology from the University of Lincoln, UK.
+I earned my PhD in Psychiatry and MSc in Cognitive Neuroscience and Neuroimaging from the University of Nottingham, UK and my BSc in Psychology from the University of Lincoln, UK.
 
 I have experience teaching neuroscience methods and programming at both the undergraduate and graduate level, and I enjoy supervising research projects.
