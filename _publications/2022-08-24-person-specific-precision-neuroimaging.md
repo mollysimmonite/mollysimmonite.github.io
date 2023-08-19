@@ -5,8 +5,6 @@ permalink: /publication/2022-08-24-person-specific-precision-neuroimaging
 excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
 date: 2022-08-24
 venue: 'Neuroimage'
-paperurl: 'http://mollysimmonite.github.io/files/Michon2022_PersonSpecificNeuroimaging.pdf'
-citation: 'Michon, Katherine J; Khammash, Dalia; Simmonite, Molly; Hamlin, Abbey H and Polk, Thad A. (2022). &quot;Person-specific and precision neuroimaging: Current methods and future directions.&quot; <i>Neuroimage</i>. 1(3).'
 ---
 This paper is about the number 3. The number 4 is left for future work.
 

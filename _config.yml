@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Molly Simmonite Ph.D"
+title                    : "Molly Simmonite PhD"
 title_separator          : "-"
 name                     : &name "Molly Simmonite"
 description              : &description "personal description"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Molly Simmonite Ph.D"
+  name             : "Molly Simmonite PhD"
   avatar           : "molly_profile.png"
   bio              : "Scientist"
   location         : "Detroit, Michigan"
