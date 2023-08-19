@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Resume"
+title: "Research Interests"
 permalink: /resume/
 author_profile: true
 redirect_from:
@@ -9,8 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-Research Interests
-======
 * Neurotransmitter alterations in psychosis spectrum disorders
 * Integrating age-related chances in neurochemistry with behavior
 * Age differences in the specificity of neural patterns
