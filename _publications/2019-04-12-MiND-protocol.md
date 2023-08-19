@@ -12,7 +12,7 @@ Methods: The MiND project consists of two studies: the main study and a drug stu
 
 Discussion: By collecting multimodal imaging measures along with extensive behavioral measures from the same subjects, we are linking individual differences in neurochemistry, neural representation, and behavioral performance, rather than focusing solely on group differences between young and old participants. Our findings have the potential to inform new interventions for age-related declines.
 
-Trial registration: This study was retrospectively registered with the ISRCTN registry on March 4, 2019. The registration number is ISRCTN17266136 .
+Trial registration: This study was retrospectively registered with the ISRCTN registry on March 4, 2019. The registration number is ISRCTN17266136.
 
 [Download article here](http://mollysimmonite.github.io/files/Gagnon2019_MiNDprotocol.pdf)
 
