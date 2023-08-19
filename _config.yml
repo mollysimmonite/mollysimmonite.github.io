@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Molly Simmonite PhD"
   avatar           : "molly_profile.png"
-  bio              : "Scientist"
+  bio              : "Cognitive Neuroscientist"
   location         : "Detroit, Michigan"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=molly+simmonite"
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "https://orcid.org/my-orcid?orcid=0000-0001-7181-8094"
+  orcid            : "https://orcid.org/0000-0001-7181-8094"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
