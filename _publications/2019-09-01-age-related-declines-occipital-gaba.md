@@ -10,4 +10,4 @@ Healthy aging is associated with pervasive declines in cognitive, motor, and sen
 
 [Download article here](http://mollysimmonite.github.io/files/Simmonite2019_occipitalGABA.pdf)
 
-Recommended citation: Simmonite, Molly; Carp, Joshua; Foerster, Bradley R; Ossher, Lynn; Petrou, Myria; Weissman, Daniel H and Polk, Thad A. (2019). "Age-related declines in occipital GABA are associated with reduced fluid processing ability." <i>Academic Radiology</i>. 1(3).
+Recommended citation: Simmonite, M., Carp, J., Foerster, B. R., Ossher, L., Petrou, M., Weissman, D. H., & Polk, T. A. (2019). Age-related declines in occipital GABA are associated with reduced fluid processing ability. <i>Academic Radiology,</i> 26(8), 1053-1061. [https://doi.org/10.1016/j.acra.2018.07.024](https://doi.org/10.1016/j.acra.2018.07.024)

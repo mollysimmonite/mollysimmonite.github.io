@@ -1,5 +1,5 @@
 ---
-title: "Michigan Neural Distinctiveness (MiND) study protocol: investigating the scope, causes, and consequences of age-related neural dedifferentiation"
+title: "Michigan Neural Distinctiveness (MiND) study protocol: Investigating the scope, causes, and consequences of age-related neural dedifferentiation"
 collection: publications
 permalink: /publication/2019-04-12-MiND-protocol
 excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
@@ -16,4 +16,4 @@ Trial registration: This study was retrospectively registered with the ISRCTN re
 
 [Download article here](http://mollysimmonite.github.io/files/Gagnon2019_MiNDprotocol.pdf)
 
-Recommended citation: Gagnon, H., Simmonite, M., Cassady, K., Chamberlain, J., Freiburger, E., Lalwani, P., ... & Polk, T. A. (2019). Michigan Neural Distinctiveness (MiND) study protocol: investigating the scope, causes, and consequences of age-related neural dedifferentiation. BMC neurology, 19(1), 1-17. [https://doi.org/10.1186/s12883-019-1294-6](https://doi.org/10.1186/s12883-019-1294-6)
+Recommended citation: Gagnon, H., Simmonite, M., Cassady, K., Chamberlain, J., Freiburger, E., Lalwani, P., ... & Polk, T. A. (2019). Michigan neural distinctiveness (MiND) study protocol: Investigating the scope, causes, and consequences of age-related neural dedifferentiation. <i>BMC Neurology,</i> 19(1), 1-17. [https://doi.org/10.1186/s12883-019-1294-6](https://doi.org/10.1186/s12883-019-1294-6)

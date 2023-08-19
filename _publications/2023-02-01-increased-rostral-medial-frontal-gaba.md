@@ -10,4 +10,4 @@ venue: 'Schizophrenia Research'
 
 This paper is about the number 1. The number 2 is left for future work.
 
-Recommended citation: Simmonite, Molly; Beier, Yao; Welsh, Robert C. and Taylor, Stephan F. (2023). "Increased rostral medial frontal GABA in early psychosis is obscured by levels of negative affect" <i>Schizophrenia Research</i>. 252(46-47).
+Recommended citation: Simmonite, M., Yao, B., Welsh, R. C., & Taylor, S. F. (2023). Increased rostral medial frontal GABA+ in early psychosis is obscured by levels of negative affect. <i>Schizophrenia Research,</i> 252, 46-47.[https://doi.org/10.1016/j.schres.2022.12.017](https://doi.org/10.1016/j.schres.2022.12.017)
