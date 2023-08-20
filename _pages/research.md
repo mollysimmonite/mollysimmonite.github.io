@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Appointments"
-permalink: /resume/
+permalink: /research/
 author_profile: true
 redirect_from:
   - /cv
