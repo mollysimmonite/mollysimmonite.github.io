@@ -83,7 +83,7 @@ author:
   bio              : "Cognitive Neuroscientist"
   location         : "Detroit, Michigan"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=molly+simmonite"
+  pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=UanhFRAAAAAJ&hl=en&oi=ao"
   email            : "mollysimmonite@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -101,7 +101,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "mollysimmonite"
-  orcid            : "https://orcid.org/0000-0001-7181-8094"
+  orcid            :
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
