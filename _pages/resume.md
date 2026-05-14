@@ -38,9 +38,3 @@ Teaching
 * Demonstrator, Computer Programming for Stimuli and Analysis
 * Demonstrator, Practical Methods in Psychology
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-
