@@ -14,6 +14,6 @@ My work spans two main areas. In healthy aging, I investigate how cognitive func
 
 I earned my PhD in Psychiatry from the University of Nottingham, UK, where I studied cerebral connectivity in psychosis under the supervision of Professor Peter Liddle. I also hold an MSc in Cognitive Neuroscience and Neuroimaging from Nottingham and a BSc in Psychology from the University of Lincoln, UK.
 
-Alongside my research, I teach in the Department of Psychology at the University of Michigan. I have taught large introductory courses as well as smaller upper-level seminars, and I developed and teach a summer school for high school students through the [Michigan Math and Science Scholars (MMSS)](https://lsa.umich.edu/mmss) program, introducing them to the science and methods of neuroimaging.
+Alongside my research, I teach in the Department of Psychology at the University of Michigan. I have taught large introductory courses as well as smaller upper-level seminars, and I developed and teach a summer school for high school students through the [Michigan Math and Science Scholars (MMSS)](https://lsa.umich.edu/mmss) program, introducing them to the science and methods of neuroimaging. I have also supervised research projects at both the undergraduate and graduate level.
 
 A full list of my publications is available on my [Google Scholar profile](https://scholar.google.com/citations?user=UanhFRAAAAAJ&hl=en).
