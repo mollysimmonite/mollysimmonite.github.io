@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am an Assistant Research Scientist at the University of Michigan, where I work in the Departments of Psychiatry and Psychology. My research uses cognitive neuroimaging methods — principally functional MRI (fMRI) and magnetic resonance spectroscopy (MRS) — to understand how the brain changes across the lifespan and in psychiatric illness.
+Welcome! I am an Assistant Research Scientist at the University of Michigan, where I work in the Departments of Psychiatry and Psychology. My research uses cognitive neuroimaging methods, principally functional MRI (fMRI) and magnetic resonance spectroscopy (MRS), to understand how the brain changes across the lifespan and in psychiatric illness.
 
-My work spans two main areas. In healthy aging, I investigate how cognitive functions such as attention and memory decline with age, and what neural and neurochemical mechanisms underlie those changes. A particular focus is the role of GABA, the brain's primary inhibitory neurotransmitter, in supporting cognition — and how age-related shifts in GABAergic signalling contribute to cognitive decline. In the area of psychosis, I study the cognitive and neural changes associated with schizophrenia and bipolar disorder, with the aim of identifying reliable neurochemical markers that could inform diagnosis and treatment.
+My work spans two main areas. In healthy aging, I investigate how cognitive functions such as attention and memory decline with age, and what neural and neurochemical mechanisms underlie those changes. A particular focus is the role of GABA, the brain's primary inhibitory neurotransmitter, in supporting cognition, and how age-related shifts in GABAergic signalling contribute to cognitive decline. In the area of psychosis, I study the cognitive and neural changes associated with schizophrenia and bipolar disorder, with the aim of identifying reliable neurochemical markers that could inform diagnosis and treatment.
 
 I earned my PhD in Psychiatry from the University of Nottingham, UK, where I studied cerebral connectivity in psychosis under the supervision of Professor Peter Liddle. I also hold an MSc in Cognitive Neuroscience and Neuroimaging from Nottingham.
 
