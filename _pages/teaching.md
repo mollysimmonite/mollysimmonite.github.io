@@ -21,4 +21,4 @@ How neurotransmitter systems shape behavior and cognition, their roles in mental
 
 ## Neuroimaging: Seeing the Brain in Action
 
-Summer school for high school students introducing neuroimaging techniques and their application to understanding brain function. Part of the Michigan Math and Science Scholars (MMSS) program.
+Summer school for high school students introducing neuroimaging techniques and their application to understanding brain function. Part of the [Michigan Math and Science Scholars (MMSS)](https://lsa.umich.edu/mmss) program.
