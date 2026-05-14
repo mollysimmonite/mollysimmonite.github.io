@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Appointments"
+title: "CV"
 permalink: /resume/
 author_profile: true
 redirect_from:
@@ -29,7 +29,11 @@ Education
 Teaching
 ======
 * Adjunct Lecturer, Department of Psychology, University of Michigan
-  *
+  * Psych 240: Introduction to Cognitive Psychology
+  * Psych 302: Research Methods in Cognitive Neuroscience
+  * Psych 447: Neurochemical Basis of Behaviour, Mental Health, and Aging
+* Instructor, Michigan Math and Science Scholars (MMSS), University of Michigan
+  * Neuroimaging: Seeing the Brain in Action (summer school for high school students)
 * Graduate Student Mentor, Department of Psychology, Rosalind Franklin University
 * Demonstrator, Computer Programming for Stimuli and Analysis
 * Demonstrator, Practical Methods in Psychology
@@ -40,8 +44,3 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-
-
-Service and leadership
-======
-* Currently signed in to 43 different slack teams

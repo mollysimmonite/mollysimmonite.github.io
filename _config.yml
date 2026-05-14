@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Molly Simmonite PhD"
 title_separator          : "-"
 name                     : &name "Molly Simmonite"
-description              : &description "personal description"
+description              : &description "Research Investigator using cognitive neuroimaging methods to study aging and mental health"
 url                      : https://mollysimmonite.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "mollysimmonite/mollysimmonite.github.io"
@@ -100,7 +100,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "mollysimmonite"
   orcid            : "https://orcid.org/0000-0001-7181-8094"
   pinterest        :
   soundcloud       :

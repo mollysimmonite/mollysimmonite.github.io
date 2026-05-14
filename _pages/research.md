@@ -1,47 +1,22 @@
 ---
 layout: archive
-title: "Appointments"
+title: "Research"
 permalink: /research/
 author_profile: true
-redirect_from:
-  - /cv
 ---
 
 {% include base_path %}
-* Research Investigator, March 2022 - present
-  * Department of Psychiatry, University of Michigan, Ann Arbor MI
-  * Advisor: Dr Stephan F. Taylor
 
-* Postdoctoral Research Fellow, April 2016 - March 2022
-  * Department of Psychology, University of Michigan, Ann Arbor MI
-  * Advisor: Dr Thad A. Polk
+My research uses cognitive neuroimaging methods — including fMRI, MRS, and EEG — to understand how the brain supports cognition across health and disease. I work in two main areas:
 
-  * Postdoctoral Research Fellow, April 2016 - March 2022
-    * Department of Psychology, Rosalind Franklin University, North Chicago IL
-    * Advisors: Dr Kent Kiehl and Dr David Kosson
+## Healthy Aging
 
-Education
-======
-* PhD in Psychiatry, University of Nottingham, UK. 2013
-* MSc in Cognitive Neuroscience and Neuroimaging, University of Nottingham, UK. 2009
-* BSc (Hons) in Psychology, University of Lincoln, UK. 2007
+I study how cognitive functions such as attention and memory change across the adult lifespan, and what neural mechanisms drive those changes. A key goal is understanding which aspects of cognitive aging are inevitable and which might be modifiable — and why some individuals age more successfully than others.
 
-Teaching
-======
-* Adjunct Lecturer, Department of Psychology, University of Michigan
-  *
-* Graduate Student Mentor, Department of Psychology, Rosalind Franklin University
-* Demonstrator, Computer Programming for Stimuli and Analysis
-* Demonstrator, Practical Methods in Psychology
+## Psychosis: Schizophrenia and Bipolar Disorder
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+I investigate the cognitive and neural changes associated with psychotic disorders, including schizophrenia and bipolar disorder. This work aims to identify reliable neural markers of cognitive impairment that could ultimately inform diagnosis and treatment.
 
+## Methods
 
-
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+I draw on a range of human cognitive neuroimaging approaches, including functional MRI (fMRI) for measuring brain activity and connectivity, magnetic resonance spectroscopy (MRS) for assessing neurochemistry in vivo, and EEG for capturing the temporal dynamics of neural responses.
